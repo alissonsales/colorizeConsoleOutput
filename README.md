@@ -4,7 +4,9 @@ Replaces ANSI escape sequences that represent colors with HTML and CSS. Supports
 
 # Usage
 
+```js
 $("#my_element").colorizeConsoleOutput();
+```
 
 # Requirements
 
